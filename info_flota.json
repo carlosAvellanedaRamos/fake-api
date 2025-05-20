@@ -1,0 +1,77 @@
+{
+   "flota":[
+      {
+      "geocerca":"Paradero 2",
+      "hora_llegada":"03:15 PM",
+      "placa":"D0ODL21"
+      }
+   ],
+   "flota_delante":[
+      {
+         "placa":"D0ODL21",
+         "diferencia_minutos":15
+      },
+      {
+         "placa":"D0ODL22",
+         "diferencia_minutos":30
+      },
+      {
+         "placa":"D0ODL23",
+         "diferencia_minutos":45
+      },
+      {
+         "placa":"D0ODL24",
+         "diferencia_minutos":60
+      }
+   ],
+   "flota_anterior":[
+      {
+         "placa":"D0ODL23",
+         "diferencia_minutos":-15
+      },
+      {
+         "placa":"D0ODL22",
+         "diferencia_minutos":-30
+      },
+      {
+         "placa":"D0ODL21",
+         "diferencia_minutos":-45
+      },
+      {
+         "placa":"D0ODL20",
+         "diferencia_minutos":-60
+      }
+   ],
+   "paraderos": [
+      {
+         "nombre":"Paradero 1"
+      },
+      {
+         "nombre":"Paradero 2"
+      },
+      {
+         "nombre":"Paradero 3"
+      },
+      {
+         "nombre":"Paradero 4"
+      },
+      {
+         "nombre":"Paradero 5"
+      },
+      {
+         "nombre":"Paradero 6"
+      },
+      {
+         "nombre":"Paradero 7"
+      },
+      {
+         "nombre":"Paradero 8"
+      },
+      {
+         "nombre":"Paradero 9"
+      },
+      {
+         "nombre":"Paradero 10"
+      }
+   ]
+}
